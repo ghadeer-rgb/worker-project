@@ -1,1 +1,1 @@
-# worker-project
+Continuing to improve this project and its documentation.
